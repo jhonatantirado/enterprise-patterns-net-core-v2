@@ -1,0 +1,6 @@
+---
+applications:
+- name: dycsw-examen-restapi-patterns
+  memory: 256M
+  instances: 1
+  random-route: true
